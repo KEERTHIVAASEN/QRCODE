@@ -1,1 +1,3 @@
 # QRCODE
+
+### A Quick Response (QR) code is a kind of barcode that can be quickly read by a digital device and stores data as a series of pixels in a grid that is square in shape. It is common practice to use QR codes in marketing and advertising campaigns as well as to track information about products in a supply chain.In cryptocurrency systems, such as displaying one's Bitcoin address, QR codes have become more commonplace in facilitating digital payments.To send web addresses to mobile phones, QR codes are also being used more and more.As an illustration, the URL for this specific entry on Investopedia is encoded in the QR code displayed below. For a test run, use your phone.
